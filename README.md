@@ -13,4 +13,5 @@ WEEPGTS is a project developed by the **GTS** group aimed at providing advanced 
    ```bash
    git clone https://github.com/ayoubgts/WEEPGTS.git
    Telegram AYOUBX1
-   Tools will be added soon!! 
+   Tools will be added soon!!
+ developed GTS: AYOUBX1-ALEX (Psychopath)-OMRSJ-OsamR
